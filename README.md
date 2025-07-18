@@ -25,10 +25,10 @@ No frameworks or external libraries required — just pure Python.
 ## Project Structure
 
 livechat-python/
-├── app.py # Main Python server (double-click to run)
-├── data.json # Stores messages persistently
-├── LICENSE # License file
-├── README.md # This file
+app.py # Main Python server (double-click to run)
+messages.json # Stores messages persistently
+LICENSE # License file
+README.md # This file
 
 
 ## License
